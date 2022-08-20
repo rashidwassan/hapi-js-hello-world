@@ -1,1 +1,1 @@
-# hapi-js-hello-world
+Hapi JS Basics
